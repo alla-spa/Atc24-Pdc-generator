@@ -6,4 +6,6 @@ Terminal run program for the 1 person who will use this
 
 Entering the keyword menu into any input will open the main menu
 
+Having the python tool pyperclip is recomended
+
 MEOW
